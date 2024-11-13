@@ -1,3 +1,6 @@
+https://youtu.be/aQFfe4ZwBpc
+
+
 -> steps and dependencies required to startup , backend, frontend, and db server( neo4j)
 ->let me give code walk through of all apis.
 ->created requied modes and ui page
