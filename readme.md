@@ -1,4 +1,3 @@
-https://youtu.be/aQFfe4ZwBpc
 
 
 -> steps and dependencies required to startup , backend, frontend, and db server( neo4j)
